@@ -1,0 +1,4 @@
+mtcnn
+keras
+tensorflow
+openCV
